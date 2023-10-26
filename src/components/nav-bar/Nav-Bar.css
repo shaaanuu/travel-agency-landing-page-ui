@@ -1,0 +1,31 @@
+.nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: -10px;
+}
+
+.nav-bar-item {
+  padding: 10px;
+  color: grey;
+  text-decoration: none;
+  font-size: 0.999em;
+}
+
+h3 {
+  font-size: 1.4em;
+}
+
+.nav-bar-item:hover {
+  color: black;
+  text-decoration: underline;
+}
+
+.nav-bar-item:active {
+  text-decoration: underline; /* Add underline when clicked (active) */
+}
+
+.home {
+  color: black;
+  text-decoration: underline;
+}

@@ -1,0 +1,32 @@
+.gallery-section {
+  margin-bottom: -50px;
+}
+
+.info-sec {
+  display: flex;
+  justify-content: space-between;
+}
+
+h1 {
+  margin: 0;
+  padding-top: 30px;
+}
+
+p {
+  font-weight: 400;
+  color: gray;
+}
+
+.learn-more-btn {
+  background-color: black;
+  border-radius: 30px;
+  padding-inline: 35px;
+  font-weight: 600;
+  border: solid 2px black;
+}
+
+.learn-more-btn:hover {
+  border: solid 2px black;
+  color: black;
+  background-color: #f7f7f7;
+}

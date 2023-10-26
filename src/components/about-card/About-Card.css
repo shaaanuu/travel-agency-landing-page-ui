@@ -1,0 +1,27 @@
+.about-card {
+  padding: 10px;
+  background-color: hsla(0, 0%, 88%, 0.815);
+  width: 95%;
+  border-radius: 30px;
+}
+.about-card h4 {
+  font-size: 15px;
+}
+.about-card p {
+  font-size: 14.5px;
+}
+.about-card p,
+.about-card h4 {
+  margin: 5px;
+}
+.about-card-icon {
+  width: 50px;
+  height: 40px;
+  background-color: hsl(0, 0%, 100%);
+  text-align: center;
+  padding-top: 10px;
+  border-radius: 30px;
+}
+.divider{
+  margin: 0;
+}
