@@ -5,7 +5,7 @@ import { PiHandHeartLight } from "react-icons/pi";
 import "./AboutSection.css";
 import AboutCard from "../about-card/About-Card";
 
-let img = "src/assets/3.jpg";
+let img = "/assets/3.jpg";
 
 const AboutSection = () => (
   <div className="about-section">
